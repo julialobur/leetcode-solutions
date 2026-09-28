@@ -1,6 +1,4 @@
-﻿using System;
-
-public class Solution
+﻿public class TwoSumSolution
 {
     public int[] TwoSum(int[] nums, int target)
     {

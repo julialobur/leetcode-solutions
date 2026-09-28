@@ -1,4 +1,4 @@
-﻿public class Solution
+﻿public class RomanToIntSolution
 {
     public int RomanToInt(string s)
     {

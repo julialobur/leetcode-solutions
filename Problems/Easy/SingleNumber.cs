@@ -1,4 +1,4 @@
-﻿public class Solution
+﻿public class SingleNumberSolution
 {
     public int SingleNumber(int[] nums)
     {

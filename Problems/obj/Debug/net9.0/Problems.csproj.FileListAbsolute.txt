@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\LeetCode\LeetCodeSolutions\Problems\obj\Debug\net9.0\Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\LeetCode\LeetCodeSolutions\Problems\obj\Debug\net9.0\Problems.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\LeetCode\LeetCodeSolutions\Problems\obj\Debug\net9.0\Problems.AssemblyInfo.cs
+C:\Users\DELL\Desktop\LeetCode\LeetCodeSolutions\Problems\obj\Debug\net9.0\Problems.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LeetCode\LeetCodeSolutions\Problems\obj\Debug\net9.0\Problems.sourcelink.json
