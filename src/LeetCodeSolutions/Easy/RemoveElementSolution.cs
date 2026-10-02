@@ -1,3 +1,5 @@
+namespace LeetCodeSolutions.Easy;
+
 public class RemoveElementSolution
 {
     public int RemoveElement(int[] nums, int val)

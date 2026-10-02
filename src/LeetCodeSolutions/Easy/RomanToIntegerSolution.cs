@@ -1,4 +1,6 @@
-﻿public class RomanToIntSolution
+namespace LeetCodeSolutions.Easy;
+
+public class RomanToIntegerSolution
 {
     public int RomanToInt(string s)
     {

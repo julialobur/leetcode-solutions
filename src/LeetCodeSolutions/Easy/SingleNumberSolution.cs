@@ -1,4 +1,6 @@
-﻿public class SingleNumberSolution
+namespace LeetCodeSolutions.Easy;
+
+public class SingleNumberSolution
 {
     public int SingleNumber(int[] nums)
     {
