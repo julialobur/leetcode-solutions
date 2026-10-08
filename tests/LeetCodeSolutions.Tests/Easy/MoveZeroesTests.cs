@@ -1,5 +1,4 @@
 ﻿using LeetCodeSolutions.Easy;
-using Xunit;
 
 public class MoveZeroesTests
 {

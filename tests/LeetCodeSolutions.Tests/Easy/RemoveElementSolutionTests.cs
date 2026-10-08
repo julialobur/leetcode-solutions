@@ -17,7 +17,6 @@ public class RemoveElementSolutionTests
         int k = _solution.RemoveElement(nums, val);
 
         Assert.Equal(expectedRemaining.Length, k);
-        // LeetCode accepts any order for the first k elements
         Assert.Equal(expectedRemaining.OrderBy(x => x), nums.Take(k).OrderBy(x => x));
     }
 }
