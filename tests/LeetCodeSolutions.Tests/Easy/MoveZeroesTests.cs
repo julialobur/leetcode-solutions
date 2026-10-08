@@ -1,8 +1,9 @@
-﻿using Xunit;
+﻿using LeetCodeSolutions.Easy;
+using Xunit;
 
 public class MoveZeroesTests
 {
-    private readonly Solution _solution = new();
+    private readonly MoveZeroesSolution _solution = new();
 
     [Theory]
     [InlineData(new[] { 0, 1, 0, 3, 12 }, new[] { 1, 3, 12, 0, 0 })]

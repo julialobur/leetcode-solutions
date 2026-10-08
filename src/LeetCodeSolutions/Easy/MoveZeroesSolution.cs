@@ -1,4 +1,6 @@
-public class Solution {
+namespace LeetCodeSolutions.Easy; 
+public class MoveZeroesSolution
+{
     public void MoveZeroes(int[] nums) {
         int zeroIndex = 0;
         int n = nums.Length;

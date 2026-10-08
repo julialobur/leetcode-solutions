@@ -1,8 +1,9 @@
-﻿using Xunit;
+﻿using LeetCodeSolutions.Medium;
+using Xunit;
 
 public class LongestSubstringTests
 {
-    private readonly Solution _solution = new();
+    private readonly LongestSubstringWithoutRepeatingCharactersSolution _solution = new();
 
     [Theory]
     [InlineData("abcabcbb", 3)]
