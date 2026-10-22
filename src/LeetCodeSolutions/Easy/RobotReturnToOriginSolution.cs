@@ -4,6 +4,5 @@ public class RobotReturnToOriginSolution
 {
     public bool JudgeCircle(string moves)
     {
-
     }
 }
